@@ -5,6 +5,12 @@ A dark [btop](https://github.com/aristocratos/btop) theme using the palette from
 Deep navy canvas, turquoise selection, sky blue and lavender panels, and
 amber-to-coral gradients for processor load and temperature.
 
+## Screenshots
+
+![Zeraphim theme showing processor, memory, disks, network, and processes](assets/zeraphim-dashboard.png)
+
+![btop options with the Zeraphim color theme selected](assets/zeraphim-options.png)
+
 ## Install
 
 Run these commands from a directory outside your btop configuration folder:
