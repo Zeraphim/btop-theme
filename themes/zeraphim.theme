@@ -1,0 +1,71 @@
+# Zeraphim — dark theme for btop
+# Palette: https://github.com/Zeraphim/obsidian-theme
+# All colors come from the reference theme's standard dark palette.
+
+# Canvas, text, and keyboard shortcuts
+theme[main_bg]="#060a13"
+theme[main_fg]="#edf7f7"
+theme[title]="#edf7f7"
+theme[hi_fg]="#7fe9d6"
+theme[inactive_fg]="#7f9397"
+theme[graph_text]="#a9bbbd"
+theme[meter_bg]="#263742"
+
+# Selected process: dark text on turquoise
+theme[selected_bg]="#7fe9d6"
+theme[selected_fg]="#060a13"
+theme[proc_misc]="#5fb8d4"
+
+# Panel outlines: processor, memory, network, processes
+theme[cpu_box]="#7fe9d6"
+theme[mem_box]="#c4b5fd"
+theme[net_box]="#5fb8d4"
+theme[proc_box]="#7f9397"
+theme[div_line]="#46616a"
+
+# Temperature and processor load: cool to warning to hot
+theme[temp_start]="#5fb8d4"
+theme[temp_mid]="#fbbf24"
+theme[temp_end]="#e2707a"
+theme[cpu_start]="#7fe9d6"
+theme[cpu_mid]="#fbbf24"
+theme[cpu_end]="#e2707a"
+
+# Free and available memory: green to mint to turquoise
+theme[free_start]="#2fbf94"
+theme[free_mid]="#6fe0b8"
+theme[free_end]="#7fe9d6"
+theme[available_start]="#2fbf94"
+theme[available_mid]="#6fe0b8"
+theme[available_end]="#7fe9d6"
+
+# Cached memory: sky blue
+theme[cached_start]="#5fb8d4"
+theme[cached_mid]="#a8d8e8"
+theme[cached_end]="#edf7f7"
+
+# Used memory: lavender to amber to coral
+theme[used_start]="#c4b5fd"
+theme[used_mid]="#fbbf24"
+theme[used_end]="#e2707a"
+
+# Network traffic: turquoise downloads, lavender uploads
+theme[download_start]="#2fbf94"
+theme[download_mid]="#6fe0b8"
+theme[download_end]="#7fe9d6"
+theme[upload_start]="#a78bfa"
+theme[upload_mid]="#c4b5fd"
+theme[upload_end]="#edf7f7"
+
+# Process usage gradient
+theme[process_start]="#7fe9d6"
+theme[process_mid]="#fbbf24"
+theme[process_end]="#e2707a"
+
+# Process pause/follow banners and followed row
+theme[proc_pause_bg]="#fbbf24"
+theme[proc_follow_bg]="#5fb8d4"
+theme[proc_banner_bg]="#c4b5fd"
+theme[proc_banner_fg]="#060a13"
+theme[followed_bg]="#0b3434"
+theme[followed_fg]="#7fe9d6"

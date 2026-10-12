@@ -1,0 +1,4 @@
+# Local btop configuration and runtime files
+btop.conf
+btop.log
+.DS_Store
